@@ -358,15 +358,7 @@ foreach ($todos as $med) {
 - [PDO - PHP Data Objects](https://www.php.net/manual/pt_BR/book.pdo.php)
 - [Domain-Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design)
 - [Repository Pattern](https://refactoring.guru/design-patterns/repository)
-
----
-
-## 👨‍💼 Autor
-
-**LuizLins** - Projeto educacional para aprendizado de POO e arquitetura em PHP
-
-**Email:** luizmagao@gmail.com
-
+  
 ---
 
 ## 📝 Licença
@@ -570,5 +562,4 @@ CREATE TABLE medicos (
 Este projeto é didático. Sugestões de melhorias são bem-vindas via pull requests ou issues.
 
 ## Autor
-
-Luiz Lins (luizmagao@gmail.com)
+Pedro Oliveira Fonseca - 01782564
